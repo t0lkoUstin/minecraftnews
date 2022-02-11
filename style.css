@@ -1,0 +1,37 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: sienna;
+}
+
+header {
+    background-color: limegreen;
+}
+
+header h1 {
+    color: green;
+    text-align: center;
+}
+
+nav, main h1, main p, main img {
+    border: 3px solid rgb(110, 55, 15);
+    text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    color: rgb(110, 55, 15);
+    padding: 20px;
+}
+
+main h1, main p, main a {
+    color: rgb(110, 55, 15);
+}
+
+main img {
+    height: 280px;
+    width: 580px;
+}
+
+main a {
+    text-decoration: none;
+}
